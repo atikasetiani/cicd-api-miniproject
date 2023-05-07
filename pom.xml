@@ -13,6 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <rest.assured.version>4.4.0</rest.assured.version>
         <serenity.version>3.5.1</serenity.version>
+        <java.runtime.version>11</java.runtime.version>
         <encoding>UTF-8</encoding>
         <tags></tags>
         <webdriver.base.url></webdriver.base.url>
